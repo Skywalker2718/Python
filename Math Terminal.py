@@ -1,3 +1,4 @@
+# Math Terminal {Python Version} BY BRACISTONE STUDIOS
 import re
 import tkinter as tk
 from tkinter import scrolledtext
