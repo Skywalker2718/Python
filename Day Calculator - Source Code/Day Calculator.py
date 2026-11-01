@@ -1,3 +1,5 @@
+# DAY CALCULATOR BY BRACISTONE STUDIOS
+
 Mo, Tu, We, Th, Fr, Sa, Su = 1, 2, 3, 4, 5, 6, 7
 Days = (Mo, Tu, We, Th, Fr, Sa, Su)
 Days_Dict = {
