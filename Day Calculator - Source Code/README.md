@@ -33,5 +33,5 @@ In short, the license permits users to use, copy, modify, publish, distribute, s
 **Thank You!**
 
 Regards,  
-**Syed Azfar**  
-Developer, Bracistone Studios
+**Syed Azfar  
+Developer, Bracistone Studios**
